@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "edUJOOOEDC/utA+/glvqTLlxQVrJp4Ts/BWksfSwnKg=",
+  "Source": "StudentReactWebApIDemo",
+  "BasePath": "_content/StudentReactWebApIDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentReactWebApIDemo\\wwwroot",
+      "Source": "StudentReactWebApIDemo",
+      "ContentRoot": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\",
+      "BasePath": "_content/StudentReactWebApIDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg",
+      "SourceId": "StudentReactWebApIDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\",
+      "BasePath": "_content/StudentReactWebApIDemo",
+      "RelativePath": "images/4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg"
+    }
+  ]
+}

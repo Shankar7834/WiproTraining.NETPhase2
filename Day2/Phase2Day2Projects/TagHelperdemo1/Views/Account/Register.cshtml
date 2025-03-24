@@ -1,0 +1,53 @@
+﻿@model TagHelperdemo1.Models.UserViewModel;
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+
+@if (ViewBag.status == "registration succesfful")
+{
+    <div class="alert alert-success">
+      <h2>@ViewBag.status</h2>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        <h2>@ViewBag.status</h2>
+    </div>
+}
+
+<form asp-controller="Account" asp-action="Register" method="post">
+    
+    <div class="form-group">
+
+        <label asp-for="Username"></label>
+        <input asp-for="Username" class="form-control"/>
+        <span asp-validation-for="Username" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" type="email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Country"></label>
+        <select asp-for="Country" asp-items="Model.CountryList" class="form-control"></select>
+        <span asp-validation-for="Country" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Register</button>
+
+
+    <div asp-validation-summary="All" asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+</form>

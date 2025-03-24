@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?
+ family=Poppins:ital, wght@0, 100; 0, 200; 0, 300; 0, 400; 0, 500; 0, 600; 0, 700; 0, 800; 0, 900; 1, 100; 1, 200; 1, 300; 1, 400; 1, 500; 1, 600; 1, 700; 1, 800; 1, 900&f amily=Roboto&display=swap');
+ * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  App.css ----------- .App {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0px 15px;
+  }
+
+  h1 {
+    text-align: center;
+    margin: 30px auto;
+  }
+
+  .heading {
+    font-size: 22px;
+    align-items: center;
+  }
+
+  .card {
+    margin: 15px auto;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    max-width: 600px;
+    border-radius: 5px;
+  }
+
+  .card .id {
+    background-color: #4e06a0;
+    font-size: 12px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    margin: 10px 0px;
+    padding: 5px;
+    display: inline;
+  }
+
+  .card .name {
+    font-size: 22px;
+    font-weight: 400;
+    margin: 20px 0px;
+  }
+
+  .card .info {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .card .instock {
+    background-color: #06a02d;
+    font-size: 16px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline;
+  }
+
+  .card .unavailable {
+    background-color: #a00620;
+    font-size: 16px;
+    color: #FFFFFF;
+      border-radius: 5px;
+      padding: 5px;
+      display: inline;
+    }
+    
+    button {
+      border: 0px;
+      border-radius: 5px;
+      background-color: #0c68a1;
+      color: #FFFFFF;
+      cursor: pointer;
+      padding: 10px;
+      font-size: 20px;
+    }
+    
+    button.onlyStock {
+      background-color: #0ca14f;
+    }
+    
+    button.all {
+      background-color: #065ba0;
+    }

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg",
+      "PackagePath": "staticwebassets\\images\\4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentReactWebApIDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentReactWebApIDemo.props",
+      "PackagePath": "build\\StudentReactWebApIDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentReactWebApIDemo.props",
+      "PackagePath": "buildMultiTargeting\\StudentReactWebApIDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentReactWebApIDemo.props",
+      "PackagePath": "buildTransitive\\StudentReactWebApIDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\1ab35caf-3220-4f0b-bae3-ac4eb40fb6de.jpg",
+      "PackagePath": "staticwebassets\\images\\1ab35caf-3220-4f0b-bae3-ac4eb40fb6de.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\35040c6b-22ee-4747-b2b9-d6a9f0e0e56d.jpg",
+      "PackagePath": "staticwebassets\\images\\35040c6b-22ee-4747-b2b9-d6a9f0e0e56d.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg",
+      "PackagePath": "staticwebassets\\images\\4a0b92b1-a9f9-49bc-acdc-e99c8ae6e26f.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\73221846-5cac-4a8b-9b92-d2d523160a07.jpg",
+      "PackagePath": "staticwebassets\\images\\73221846-5cac-4a8b-9b92-d2d523160a07.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\9c5e1cb5-80cb-49b8-867c-b4e5a9b14eaf.jpg",
+      "PackagePath": "staticwebassets\\images\\9c5e1cb5-80cb-49b8-867c-b4e5a9b14eaf.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\b444b93d-e36b-4c91-a3c2-e66eeac842ab.jpg",
+      "PackagePath": "staticwebassets\\images\\b444b93d-e36b-4c91-a3c2-e66eeac842ab.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\cdbaed71-e9d7-40ee-bea0-1af755737e4a.JPG",
+      "PackagePath": "staticwebassets\\images\\cdbaed71-e9d7-40ee-bea0-1af755737e4a.JPG"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\e86d6c20-60e8-4b41-9471-1790ceda422b.png",
+      "PackagePath": "staticwebassets\\images\\e86d6c20-60e8-4b41-9471-1790ceda422b.png"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\ebeb9a28-19ba-4fb7-bf9d-751fae664ca1.png",
+      "PackagePath": "staticwebassets\\images\\ebeb9a28-19ba-4fb7-bf9d-751fae664ca1.png"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\ed21e52e-4204-49d8-9935-3a43b3d0c31f.jpg",
+      "PackagePath": "staticwebassets\\images\\ed21e52e-4204-49d8-9935-3a43b3d0c31f.jpg"
+    },
+    {
+      "Id": "D:\\GreatLearning4\\PHASE-2\\Day13\\Day10Projects\\StudentReactWebApIDemo\\wwwroot\\images\\f7fda402-46e9-48d4-bfb5-ac46711b7ef6.JPG",
+      "PackagePath": "staticwebassets\\images\\f7fda402-46e9-48d4-bfb5-ac46711b7ef6.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentReactWebApIDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentReactWebApIDemo.props",
+      "PackagePath": "build\\StudentReactWebApIDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentReactWebApIDemo.props",
+      "PackagePath": "buildMultiTargeting\\StudentReactWebApIDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentReactWebApIDemo.props",
+      "PackagePath": "buildTransitive\\StudentReactWebApIDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

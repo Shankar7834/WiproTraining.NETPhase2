@@ -1,0 +1,259 @@
+
+Question:
+----------
+
+To-Do List with Categories
+
+Description:
+
+Develop a comprehensive To-Do List application using React where users can efficiently manage their tasks under different categories. The application should allow users to add, edit, delete, and filter tasks based on categories such as Work, Personal, Shopping, and more. The goal is to provide a seamless task management experience with a user-friendly interface and smooth functionality for task categorization and filtering
+
+
+
+Core Features:
+1. Task Management:
+
+   - Add Tasks: Users can add new tasks with a title, description, due date, priority level (e.g., High, Medium, Low), and assign them to specific categories.  
+   - Edit Tasks: Users can modify existing tasks, including changing the title, description, due date, priority, and category.  
+   -Delete Tasks: Users can remove tasks from the list.  
+   
+2. Category Management:
+
+Create Categories: Users can create custom categories (e.g., Work, Personal, Shopping, Fitness) to better organize their tasks.
+Delete Categories: Users can delete categories that are no longer needed. Upon deletion, tasks under that category can be reassigned to another category or moved to an "Uncategorized" section. ​
+
+3. Task Categorization and Filtering:
+
+Categorize Tasks: Users can assign tasks to different categories at the time of creation or editing.
+Filter Tasks by Category: Users can filter tasks based on their categories to view only specific sets of tasks (e.g., only "Work" or "Personal" tasks).
+Sort Tasks: Users can sort tasks within a category by due date, priority, or creation date.
+
+4. Task Status Management:
+
+Mark as Complete/Incomplete: Users can mark tasks as complete or incomplete and filter tasks by status (e.g., show only incomplete tasks).
+
+
+React Concepts:
+
+Components:
+
+CategoryList Component: Displays all categories and allows users to create, edit, and delete categories. Users can click on a category to filter tasks associated with it.
+
+TaskList Component: Displays a list of tasks with options to edit, delete, and mark tasks as complete/incomplete. It also provides sorting and filtering options within the list. ​
+
+TaskInput Component: A form component where users can add or edit tasks. This component should handle form validation for required fields like title and due date.
+
+Dashboard Component: An overview of all tasks, categorized by their respective categories, with filters for viewing tasks by status, priority, or due date
+
+State Management:
+
+Use React state and Context API or Redux for managing the application state (task and category data) and handling data persistence (e.g., using local storage or an in-memory data structure).
+Forms and Validation:
+
+Use React forms for task input forms, ensuring form validation for required fields, maximum character length, and other constraints
+
+Routing:
+Use React Router to navigate between different views (e.g., Task List, Add Task, Edit Task).
+
+
+Note:
+All the components are already created, and learners are not required to create any components. They are expected to work on the following files:
+
+
+For the above question 
+
+SUBMISSION_8271392078
+│
+├── public
+│
+└── src
+    │
+    ├── components
+    │   ├── CategoryList.js
+    │   ├── Dashboard.js
+    │   ├── TaskInput.js
+    │   ├── TaskList.js
+    │
+    ├── services
+    │   ├── CategoryService.js
+    │   ├── TaskService.js
+    │
+    ├── App.css
+    ├── App.js
+    ├── App.private.test.js
+    ├── App.private2.test.js
+    ├── App.test.js
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    ├── reportWebVitals.js
+    ├── setupTests.js
+    ├── junit.xml
+    ├── package-lock.json
+    ├── package.json
+    ├── README.md
+    └── yarn.lock
+	
+	
+so the files boilerplate code is like this 
+
+
+CategoryList.js
+------------------
+import React, { useState } from 'react';
+import { useCategories } from '../services/CategoryService';
+
+const CategoryList = () => {
+  const { categories, addCategory, deleteCategory } = useCategories();
+  const [newCategory, setNewCategory] = useState('');
+
+  const handleAddCategory = () => {
+    if (newCategory) {
+      addCategory({ id: Date.now(), name: newCategory });
+      setNewCategory('');
+    }
+  };
+
+  return (
+
+  );
+};
+
+export default CategoryList;
+
+
+Dashboard.js
+-------------
+import React from 'react';
+import { useTasks } from '../services/TaskService';
+import { useCategories } from '../services/CategoryService';
+import TaskInput from './TaskInput';
+import TaskList from './TaskList';
+import CategoryList from './CategoryList';
+
+const Dashboard = () => {
+  const { tasks } = useTasks();
+  const { categories } = useCategories();
+
+  return (
+
+  );
+};
+
+export default Dashboard;
+
+
+TaskInput.js
+--------------
+import React, { useState } from 'react';
+import { useTasks } from '../services/TaskService';
+import { useCategories } from '../services/CategoryService';
+
+const TaskInput = ({ existingTask, onEditComplete }) => {
+  const { addTask, editTask } = useTasks();
+  const { categories } = useCategories();
+
+  const [title, setTitle] = useState(existingTask ? existingTask.title : '');
+  const [description, setDescription] = useState(existingTask ? existingTask.description : '');
+  const [dueDate, setDueDate] = useState(existingTask ? existingTask.dueDate : '');
+  const [priority, setPriority] = useState(existingTask ? existingTask.priority : 'Medium');
+  const [category, setCategory] = useState(existingTask ? existingTask.category : categories[0]?.name || '');
+
+  const handleSubmit = (e) => {
+
+  };
+
+  return (
+
+  );
+};
+
+export default TaskInput;
+
+TaskList.js
+------------
+
+import React from 'react';
+import { useTasks } from '../services/TaskService';
+import { useCategories } from '../services/CategoryService';
+
+const TaskList = () => {
+  const { tasks, editTask, deleteTask, toggleTaskStatus } = useTasks();
+  const { categories } = useCategories();
+
+  return (
+
+  );
+};
+
+export default TaskList;
+
+
+CategoryService.js
+-------------------
+import { createContext, useContext, useReducer } from 'react';
+
+// Category actions
+const ADD_CATEGORY = 'ADD_CATEGORY';
+const DELETE_CATEGORY = 'DELETE_CATEGORY';
+
+// Initial state
+const initialState = {
+  categories: [],
+};
+
+// Category reducer
+const categoryReducer = (state, action) => {
+
+};
+
+// Create context
+const CategoryContext = createContext();
+
+// Category Provider
+export const CategoryProvider = ({ children }) => {
+
+};
+
+// Custom hook to use category context
+export const useCategories = () => {
+
+};
+
+
+TaskService.js
+--------------
+import { createContext, useContext, useReducer } from 'react';
+
+// Task actions
+const ADD_TASK = 'ADD_TASK';
+const EDIT_TASK = 'EDIT_TASK';
+const DELETE_TASK = 'DELETE_TASK';
+const TOGGLE_TASK_STATUS = 'TOGGLE_TASK_STATUS';
+
+// Initial state
+const initialState = {
+  tasks: [],
+};
+
+// Task reducer
+const taskReducer = (state, action) => {
+
+};
+
+// Create context
+const TaskContext = createContext();
+
+// Task Provider
+export const TaskProvider = ({ children }) => {
+
+};
+
+// Custom hook to use task context
+export const useTasks = () => {
+  return useContext(TaskContext);
+};
+
+
+so for the above question provide me the solution by filling boiler plate codes and also filling 
+App.js and index.js codes as well and with routing done 

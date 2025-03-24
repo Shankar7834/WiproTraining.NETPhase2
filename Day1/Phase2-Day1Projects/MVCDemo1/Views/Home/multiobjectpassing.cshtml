@@ -1,0 +1,38 @@
+﻿@model  List<MVCDemo1.Models.Employee>;
+@{
+    ViewData["Title"] = "multiobjectpassing";
+}
+
+<h1>multiobjectpassing</h1>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<body>
+    <table border="1" cellpadding="1" cellspacing="1">
+        <tr>
+            <th>EmployeeID </th>
+            <th>EmployeeName </th>
+            <th>EmployeeSalary </th>
+            <th>Employee Image</th>
+            <th>display emp details </th>
+            <th> action link </th>
+        </tr>
+        
+          @foreach(Employee employee in Model)
+            {
+            <tr>
+                <td>@employee.EmployeeID</td>
+                <td>@employee.EmpName</td>
+                <td>@employee.Salary</td>
+                <td><img src="@employee.ImageUrl" alt="empimage" width="100px" height="100px"/> </td>
+                <td><a href="/Home/displayemp?empid=@employee.EmployeeID">display</a></td>
+                <td>@Html.ActionLink("showemp", "displayemp","Home", new { empid = @employee.EmployeeID })</td>
+                <td> <a asp-controller="Home" asp-action="displayemp" asp-route-empid="@employee.EmployeeID">displayemp</a></td>
+            </tr>
+            }
+       
+    </table>
+</body>

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Migrations\\20250311090316_extracoladded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentReactWebApIDemo\\Migrations\\20250311090316_extracoladded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Migrations\\20250311043432_studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentReactWebApIDemo\\Migrations\\20250311043432_studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|d:\\greatlearning4\\phase-2\\day10\\day10projects\\studentreactwebapidemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7070D791-8980-473E-BFB7-D6EF6AF57363}|StudentReactWebApIDemo\\StudentReactWebApIDemo.csproj|solutionrelative:studentreactwebapidemo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Models\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:08:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250311090316_extracoladded.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Migrations\\20250311090316_extracoladded.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Migrations\\20250311090316_extracoladded.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Migrations\\20250311090316_extracoladded.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Migrations\\20250311090316_extracoladded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:03:16.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250311043432_studentdb.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Migrations\\20250311043432_studentdb.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Migrations\\20250311043432_studentdb.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Migrations\\20250311043432_studentdb.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Migrations\\20250311043432_studentdb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:34:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T04:27:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:06:24.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Program.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:02:54.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\appsettings.json",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\appsettings.json",
+              "RelativeToolTip": "StudentReactWebApIDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T04:01:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T04:00:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentReactWebApIDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day10\\Day10Projects\\StudentReactWebApIDemo\\Models\\Student.cs",
+              "RelativeToolTip": "StudentReactWebApIDemo\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:59:12.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\models\\userinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\models\\userinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\models\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\models\\logininputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\repositories\\ipost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\userdetail2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\userdetail2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\migrations\\20250306044949_3tablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\migrations\\20250306044949_3tablesadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\migrations\\20250306050309_3moretablesaddedwithfluentvalidaton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\migrations\\20250306050309_3moretablesaddedwithfluentvalidaton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\course2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\course2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\author2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\author2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\course1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\author1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\author1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\migrations\\20250306043001_initaldbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\migrations\\20250306043001_initaldbcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\secureappdemo\\migrations\\20250306090701_initialdbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848D7302-0742-456F-B3EB-CDE49DF55939}|SecureAppDemo\\SecureAppDemo.csproj|solutionrelative:secureappdemo\\migrations\\20250306090701_initialdbcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|d:\\greatlearning4\\phase-2\\day6\\day6projects\\codefirstentityframeworkdemo\\migrations\\20250306052350_posttableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}|codefirstentityframeworkdemo\\codefirstentityframeworkdemo.csproj|solutionrelative:codefirstentityframeworkdemo\\migrations\\20250306052350_posttableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecureAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T06:37:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureAppDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:37:27.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginInputModel.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Models\\LoginInputModel.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Models\\LoginInputModel.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Models\\LoginInputModel.cs",
+              "RelativeToolTip": "SecureAppDemo\\Models\\LoginInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:31:51.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserInputModel.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Models\\UserInputModel.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Models\\UserInputModel.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Models\\UserInputModel.cs",
+              "RelativeToolTip": "SecureAppDemo\\Models\\UserInputModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:31:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250306090701_initialdbcreate.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Migrations\\20250306090701_initialdbcreate.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Migrations\\20250306090701_initialdbcreate.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Migrations\\20250306090701_initialdbcreate.cs",
+              "RelativeToolTip": "SecureAppDemo\\Migrations\\20250306090701_initialdbcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:07:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Program.cs",
+              "RelativeToolTip": "SecureAppDemo\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAYwDUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:55:38.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureAppDemo\\appsettings.json",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\appsettings.json",
+              "RelativeToolTip": "SecureAppDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T08:49:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureAppDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:38:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SecureAppDemo\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:11:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureAppDemo\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T10:12:18.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureAppDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\SecureAppDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureAppDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:43:17.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Delete.cshtml",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Views\\Post\\Delete.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Delete.cshtml",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Views\\Post\\Delete.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:50:17.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:49:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Views\\Post\\Details.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:47:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:46:19.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Views\\Post\\Create.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Views\\Post\\Create.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T05:45:28.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Controllers\\PostController.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Controllers\\PostController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:38:53.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Repositories\\PostRepository.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:27:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPost.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Repositories\\IPost.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Repositories\\IPost.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Repositories\\IPost.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Repositories\\IPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:26:41.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250306052350_posttableadded.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306052350_posttableadded.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Migrations\\20250306052350_posttableadded.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306052350_posttableadded.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Migrations\\20250306052350_posttableadded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:23:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Post.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Post.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:19:27.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250306050309_3moretablesaddedwithfluentvalidaton.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306050309_3moretablesaddedwithfluentvalidaton.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Migrations\\20250306050309_3moretablesaddedwithfluentvalidaton.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306050309_3moretablesaddedwithfluentvalidaton.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Migrations\\20250306050309_3moretablesaddedwithfluentvalidaton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:03:10.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDetail2.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\UserDetail2.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\UserDetail2.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\UserDetail2.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\UserDetail2.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:53:13.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Course2.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Course2.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Course2.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Course2.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Course2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:52:58.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Program.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Program.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Program.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:25:44.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Author2.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Author2.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Author2.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Author2.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Author2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:52:43.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250306044949_3tablesadded.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306044949_3tablesadded.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Migrations\\20250306044949_3tablesadded.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306044949_3tablesadded.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Migrations\\20250306044949_3tablesadded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:49:49.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\UserDetail.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\UserDetail.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\UserDetail.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\UserDetail.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:35:19.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\EventContext.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\EventContext.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\EventContext.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\EventContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:13:46.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Employee.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Employee.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:35:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Course1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Course1.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Course1.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Course1.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Course1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:34:36.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Author1.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Author1.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Author1.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Author1.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Author1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:34:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:43:47.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250306043001_initaldbcreated.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306043001_initaldbcreated.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Migrations\\20250306043001_initaldbcreated.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Migrations\\20250306043001_initaldbcreated.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Migrations\\20250306043001_initaldbcreated.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T04:30:01.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\appsettings.json",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\appsettings.json",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\appsettings.json",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T04:24:39.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Course.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Course.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:44:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Student.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Student.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:44:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "codefirstentityframeworkdemo\\Models\\Author.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day6\\Day6Projects\\codefirstentityframeworkdemo\\Models\\Author.cs",
+              "RelativeToolTip": "codefirstentityframeworkdemo\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:44:06.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

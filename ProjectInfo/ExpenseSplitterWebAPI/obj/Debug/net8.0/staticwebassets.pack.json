@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ayaaz\\Pictures\\ProjectSample\\finanace_tracker\\server\\wwwroot\\uploads\\01edd691-6ed0-4c80-a995-3441ee88ff39.jpg",
+      "PackagePath": "staticwebassets\\uploads\\01edd691-6ed0-4c80-a995-3441ee88ff39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayaaz\\Pictures\\ProjectSample\\finanace_tracker\\server\\wwwroot\\uploads\\f6a3689d-1317-4fb8-8a3f-15e564e2346e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f6a3689d-1317-4fb8-8a3f-15e564e2346e.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.server.props",
+      "PackagePath": "build\\server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.server.props",
+      "PackagePath": "buildMultiTargeting\\server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.server.props",
+      "PackagePath": "buildTransitive\\server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TagHelperDemo2.props" />
+</Project>

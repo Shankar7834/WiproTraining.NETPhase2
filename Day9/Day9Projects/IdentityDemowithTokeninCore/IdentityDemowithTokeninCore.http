@@ -1,0 +1,6 @@
+@IdentityDemowithTokeninCore_HostAddress = http://localhost:5008
+
+GET {{IdentityDemowithTokeninCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "snXmuIZv9BGtOPBlf3TZXjVYFCwKdG3LL4M5iZnGMvI=",
+  "Source": "IdentityDemowithTokeninCore",
+  "BasePath": "_content/IdentityDemowithTokeninCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

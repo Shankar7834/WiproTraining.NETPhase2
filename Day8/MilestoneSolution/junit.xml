@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="7" failures="0" errors="0" time="12.659">
+  <testsuite name="To-Do List Application" errors="0" failures="0" skipped="0" timestamp="2025-03-06T12:57:25" time="7.122" tests="5">
+    <testcase classname="To-Do List Application renders the dashboard" name="To-Do List Application renders the dashboard" time="0.051">
+    </testcase>
+    <testcase classname="To-Do List Application adds a category" name="To-Do List Application adds a category" time="0.025">
+    </testcase>
+    <testcase classname="To-Do List Application adds a task" name="To-Do List Application adds a task" time="0.037">
+    </testcase>
+    <testcase classname="To-Do List Application edits a task" name="To-Do List Application edits a task" time="0.051">
+    </testcase>
+    <testcase classname="To-Do List Application deletes a task" name="To-Do List Application deletes a task" time="0.031">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-03-06T12:57:32" time="1.429" tests="1">
+    <testcase classname=" Private renders learn react link 2" name=" Private renders learn react link 2" time="0.027">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2025-03-06T12:57:33" time="1.365" tests="1">
+    <testcase classname=" Private renders learn react link" name=" Private renders learn react link" time="0.014">
+    </testcase>
+  </testsuite>
+</testsuites>

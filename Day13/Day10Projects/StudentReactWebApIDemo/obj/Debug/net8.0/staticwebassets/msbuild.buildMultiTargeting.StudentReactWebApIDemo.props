@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StudentReactWebApIDemo.props" />
+</Project>

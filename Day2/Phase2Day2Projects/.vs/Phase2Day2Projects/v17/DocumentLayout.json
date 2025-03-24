@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\evenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\evenvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\views\\dog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\views\\dog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\views\\dog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\views\\dog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\crudusingmodel\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C37844-351D-4870-8A14-A7D84BACC5D5}|CRUDusingModel\\CRUDusingModel.csproj|solutionrelative:crudusingmodel\\views\\dog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AD5DD7-9546-4D37-B9E5-C3BDE532D298}|TagHelperDemo2\\TagHelperDemo2.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo2\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AD5DD7-9546-4D37-B9E5-C3BDE532D298}|TagHelperDemo2\\TagHelperDemo2.csproj|solutionrelative:taghelperdemo2\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AD5DD7-9546-4D37-B9E5-C3BDE532D298}|TagHelperDemo2\\TagHelperDemo2.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63AD5DD7-9546-4D37-B9E5-C3BDE532D298}|TagHelperDemo2\\TagHelperDemo2.csproj|solutionrelative:taghelperdemo2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|solutionrelative:taghelperdemo1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AD5DD7-9546-4D37-B9E5-C3BDE532D298}|TagHelperDemo2\\TagHelperDemo2.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AD5DD7-9546-4D37-B9E5-C3BDE532D298}|TagHelperDemo2\\TagHelperDemo2.csproj|solutionrelative:taghelperdemo2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|solutionrelative:taghelperdemo1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo1\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|solutionrelative:taghelperdemo1\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|c:\\users\\raghavendra\\source\\repos\\phase2day2projects\\taghelperdemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A060180-9FE6-4DDB-B13C-843140D415FD}|TagHelperdemo1\\TagHelperdemo1.csproj|solutionrelative:taghelperdemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvenValidation.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\EvenValidation.cs",
+              "RelativeDocumentMoniker": "CRUDusingModel\\EvenValidation.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\EvenValidation.cs",
+              "RelativeToolTip": "CRUDusingModel\\EvenValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:53:10.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Views\\Dog\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Delete.cshtml",
+              "RelativeToolTip": "CRUDusingModel\\Views\\Dog\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T07:17:22.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Views\\Dog\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Edit.cshtml",
+              "RelativeToolTip": "CRUDusingModel\\Views\\Dog\\Edit.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwCIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T07:10:13.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Views\\Dog\\Details.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Details.cshtml",
+              "RelativeToolTip": "CRUDusingModel\\Views\\Dog\\Details.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T06:59:24.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Views\\Dog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Index.cshtml",
+              "RelativeToolTip": "CRUDusingModel\\Views\\Dog\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T06:50:02.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Views\\Dog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Views\\Dog\\Create.cshtml",
+              "RelativeToolTip": "CRUDusingModel\\Views\\Dog\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T06:43:16.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Controllers\\DogController.cs",
+              "RelativeToolTip": "CRUDusingModel\\Controllers\\DogController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAiwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:37:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "CRUDusingModel\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\CRUDusingModel\\Models\\Dog.cs",
+              "RelativeToolTip": "CRUDusingModel\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:33:55.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperDemo2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TagHelperDemo2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperDemo2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TagHelperDemo2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T05:26:05.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperDemo2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperDemo2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TagHelperDemo2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:24:24.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperDemo2\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "TagHelperDemo2\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperDemo2\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "TagHelperDemo2\\Models\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:23:12.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TagHelperdemo1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TagHelperdemo1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-01T04:19:22.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TagHelperdemo1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TagHelperdemo1\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:12:27.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelperdemo1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelperdemo1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:11:42.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "TagHelperdemo1\\Models\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\raghavendra\\source\\repos\\Phase2Day2Projects\\TagHelperdemo1\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "TagHelperdemo1\\Models\\UserViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T04:09:50.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

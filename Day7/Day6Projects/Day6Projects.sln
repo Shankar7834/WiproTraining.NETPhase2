@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codefirstentityframeworkdemo", "codefirstentityframeworkdemo\codefirstentityframeworkdemo.csproj", "{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureAppDemo", "SecureAppDemo\SecureAppDemo.csproj", "{848D7302-0742-456F-B3EB-CDE49DF55939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469E6298-1AA8-4964-8EFC-C108CB8ECA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848D7302-0742-456F-B3EB-CDE49DF55939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848D7302-0742-456F-B3EB-CDE49DF55939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848D7302-0742-456F-B3EB-CDE49DF55939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848D7302-0742-456F-B3EB-CDE49DF55939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBCA4D6-BCAE-4162-A282-3F0D0688F990}
+	EndGlobalSection
+EndGlobal

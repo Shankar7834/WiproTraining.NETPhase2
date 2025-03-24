@@ -1,0 +1,26 @@
+﻿@model MVCDemo1.Models.Employee
+@{
+    ViewData["Title"] = "singleobjectpassing";
+}
+
+<h1>singleobjectpassing</h1>
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<body>
+    <table border="1" cellpadding="1" cellspacing="1" >
+        <tr>
+            <th>EmployeeID </th>
+            <th>EmployeeName </th>
+            <th>EmployeeSalary </th>
+        </tr>
+        <tr>
+            <td>@Model.EmployeeID</td>
+            <td>@Model.EmpName</td>
+            <td>@Model.Salary</td>
+        </tr>
+    </table>
+</body>

@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\northwind\\orderrange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\customerrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\customerrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\northwind\\productsincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\models\\prodcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\northwind\\searchcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\views\\northwind\\spaincustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\views\\northwind\\spaincustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|d:\\greatlearning4\\phase-2\\day5\\day5projects\\entityframeworkdemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49D78F3-2ED1-43AA-83D5-357AC7C58022}|EntityFrameworkDemo1\\EntityFrameworkDemo1.csproj|solutionrelative:entityframeworkdemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Details.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:42:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:39:04.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAcwDIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:24:28.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\Post\\Create.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T09:20:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Controllers\\PostController.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:57:06.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\Post.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Post.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T08:53:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRange.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\OrderRange.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\NorthWind\\OrderRange.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\OrderRange.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\NorthWind\\OrderRange.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwDAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T07:21:22.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\Product.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Product.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\Product.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvxsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:22:54.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdCat.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\ProdCat.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\ProdCat.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\ProdCat.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\ProdCat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:15:58.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "spainCustomers.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\spainCustomers.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\NorthWind\\spainCustomers.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\spainCustomers.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\NorthWind\\spainCustomers.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T05:00:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthWindController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Controllers\\NorthWindController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:50:00.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthwndContext.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\NorthwndContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:27:05.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsInCategory.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\NorthWind\\ProductsInCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T06:39:45.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRange.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\CustomerRange.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\CustomerRange.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\CustomerRange.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\CustomerRange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:16:40.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\Category.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Category.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:23:01.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\Order.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Order.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\Order.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:28:42.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Models\\Customer.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Models\\Customer.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Models\\Customer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA/wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:28:34.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchCustomer.cshtml",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Views\\NorthWind\\SearchCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T05:23:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkDemo1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\GreatLearning4\\PHASE-2\\Day5\\Day5Projects\\EntityFrameworkDemo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EntityFrameworkDemo1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:16:43.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
